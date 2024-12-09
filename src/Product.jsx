@@ -42,7 +42,7 @@ const HomePage = () => {
 
   return (
     <div>
-      {/* Render the navigation bar at the top of the homepage */}
+      {/* Navigation page  */}
       <Navibar />
 
       {/* Grid view of the currently paginated products */}
