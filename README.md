@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+
+## PURCHIEE  - An Online shopping Product Display webiste
+  Purchiee is a modern E-commerce website built using React.
+
+
+In the project directory, you can run:# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -17,9 +22,6 @@ You may also see any lint errors in the console.
 ### `OVERVIEW`
 
 Purchiee is an Online Ecommerce purchase webiste where users can search product,apply filter based on categoory and choose product.When clicking to a product user can see the details reagrding the product.
-
-
-
 
 ## Features
 
