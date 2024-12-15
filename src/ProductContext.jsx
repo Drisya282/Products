@@ -34,7 +34,7 @@ export const ProductProvider = ({ children }) => {
   };
 
   // Render Navibar component (note: this is incorrectly placed here and won't work as intended)
-  <Navibar/>
+  //<Navibar/>
 
   // Fetch products when the component first mounts
   useEffect(() => {
